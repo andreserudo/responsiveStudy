@@ -1,4 +1,5 @@
 # Responsive Layout Study :tw-1f332:
+![GitHub top language](https://img.shields.io/github/languages/top/andreserudo/responsiveStudy)
 
 This repository is where I want to document my improvements on using Typescript to make responsive layouts.  :tw-1f44a:
 
